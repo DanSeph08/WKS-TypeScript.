@@ -11,6 +11,10 @@ let person: [string, number] = ["Franco", 26];
 
 //crea una tupla, donde en la primera posicion haya un booleano y en la segunda un string
 
+let tuple: [boolean, string] = [true, 'Daniel'];
+
 //crea un arreglo de strings
+
+let arrString: string[] = ['Hola', 'Daniel', 'Escribio', 'Esto']; 
 
 export {}
